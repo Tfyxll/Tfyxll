@@ -1,6 +1,6 @@
-### Boas vindas ao meu perfil 💙
+### Boas vindas ao meu perfil 🫀
 
-Meu nome é Stéfany Neris
+Meu nome é Stéfany bueno
 
 - Estou estudando na [Alura](https://www.alura.co.br)
 - Estou me desenvolvendo na linguagem Javascript
